@@ -1,3 +1,6 @@
+/* Created with this tutorial: https://youtu.be/j59qQ7YWLxw */
+/* Credit to Web Dev Simplified for concept & full code */
+
 *, *::before, *::after {
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
